@@ -4,4 +4,4 @@
 
 ## กลุ่มโครงงาน
 
-- [Skill Mapping](skill-mapping/comments.md)
+- [Skill Mapping — Comment ล่าสุด (v1)](skill-mapping/cmmt_v1.md)
